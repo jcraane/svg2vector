@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50pt" height="50pt" viewBox="0 0 50 50" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 25 50 C 38.808594 50 50 38.808594 50 25 C 50 11.191406 38.808594 0 25 0 C 11.191406 0 0 11.191406 0 25 C 0 38.808594 11.191406 50 25 50 Z M 25 50 "/>
+</clipPath>
+<clipPath id="clip2">
+  <path d="M 14 16 L 19 16 L 19 22 L 14 22 Z M 14 16 "/>
+</clipPath>
+<clipPath id="clip3">
+  <path d="M 16.363281 21.050781 C 17.367188 21.050781 18.183594 20.070312 18.183594 18.859375 C 18.183594 17.648438 17.367188 16.667969 16.363281 16.667969 C 15.359375 16.667969 14.546875 17.648438 14.546875 18.859375 C 14.546875 20.070312 15.359375 21.050781 16.363281 21.050781 Z M 16.363281 21.050781 "/>
+</clipPath>
+<clipPath id="clip4">
+  <path d="M 31 16 L 36 16 L 36 22 L 31 22 Z M 31 16 "/>
+</clipPath>
+<clipPath id="clip5">
+  <path d="M 33.636719 21.050781 C 34.640625 21.050781 35.453125 20.070312 35.453125 18.859375 C 35.453125 17.648438 34.640625 16.667969 33.636719 16.667969 C 32.632812 16.667969 31.816406 17.648438 31.816406 18.859375 C 31.816406 20.070312 32.632812 21.050781 33.636719 21.050781 Z M 33.636719 21.050781 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<rect x="0" y="0" width="50" height="50" style="fill:rgb(100%,78.039551%,0%);fill-opacity:1;stroke:none;"/>
+</g>
+<path style="fill:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.001475 0.500437 C 0.001475 0.500437 6.239756 0.500437 11.149912 0.500437 C 15.896006 0.500437 21.817881 0.500437 21.817881 0.500437 " transform="matrix(1,0,0,1,14.5454,33.7105)"/>
+<g clip-path="url(#clip2)" clip-rule="nonzero">
+<g clip-path="url(#clip3)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 13.546875 15.667969 L 19.183594 15.667969 L 19.183594 22.050781 L 13.546875 22.050781 Z M 13.546875 15.667969 "/>
+</g>
+</g>
+<g clip-path="url(#clip4)" clip-rule="nonzero">
+<g clip-path="url(#clip5)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 30.816406 15.667969 L 36.453125 15.667969 L 36.453125 22.050781 L 30.816406 22.050781 Z M 30.816406 15.667969 "/>
+</g>
+</g>
+</g>
+</svg>
